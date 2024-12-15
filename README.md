@@ -16,7 +16,7 @@ The architecture of this framework is illustrated below:
 2. **Estimator**:
    - Encodes information to generate representations such as v<sub>t</sub> and z<sub>t</sub>, which are fed into the **Actor**.
    - The estimator can leverage:
-     - Variational autoencoders (VAEs) like in [DreamWaQ](https://arxiv.org/abs/2301.10602) paper and here is my [implementation](https://github.com/srinivask08/DreamWaQ) of it  .
+     - Variational autoencoders (VAEs) like in [DreamWaQ](https://arxiv.org/abs/2301.10602) paper and here is my [implementation](https://github.com/sri299792458/legged_gym_dream) of it  .
      - Contrastive learning as in [HIMLoco](https://github.com/OpenRobotLab/HIMLoco), currently being integrated.
 
 3. **Actor and Policy Gradient**:
