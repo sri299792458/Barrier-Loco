@@ -7,7 +7,7 @@ This repository extends the capabilities of [Legged Gym](https://github.com/legg
 ## General Framework
 The architecture of this framework is illustrated below:
 
-![barrier asymmetric actor critic](https://github.com/user-attachments/assets/e85f9686-e7fa-40b3-80b0-8dac1986cebf)
+![barrier asymmetric actor critic](assets/barrier_loco_readme_image.png)
 
 ### Components:
 1. **Temporal and Current Observations**:
